@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa2559ec_c495b289",
+        "filename": "upload.php",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1003497
+      },
+      "writtenOn": "2015-01-14T05:24:27Z",
+      "side": 1,
+      "message": "한글",
+      "revId": "c413060c0e031ebe5d8fb73c3a5fb51d8469746d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
